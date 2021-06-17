@@ -47,6 +47,13 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://heyrobin.github.io
 [twitter]: https://twitter.com/heyrobined
 [youtube]: https://youtube.com/channel/UCPgwCtDFhjA87WzWZX3Qtjg

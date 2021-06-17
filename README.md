@@ -1,4 +1,4 @@
-### Hi there, I'm Robin 👋
+### Hi there <a href="https://www.heyrobin.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![Website](https://img.shields.io/website?label=heyrobin.github.io&style=for-the-badge&url=https%3A%2F%2Fheyrobin.github.io)](https://heyrobin.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/heyrobined?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/heyrobined/)
@@ -34,6 +34,5 @@
 <a href="https://scikit-learn.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyrobin&show_icons=true&locale=en&layout=compact" alt="heyrobin" /></p>

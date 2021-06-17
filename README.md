@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="heyrobin.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="twitter.com/heyrobined" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="linkedin.com/in/heyrobin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram.com/heyrobined" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="youtube.com/channel/UCPgwCtDFhjA87WzWZX3Qtjg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<img align="left" alt="heyrobin.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="twitter.com/heyrobined" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="linkedin.com/in/heyrobin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="instagram.com/heyrobined" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="youtube.com/channel/UCPgwCtDFhjA87WzWZX3Qtjg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 
 <br />
 
@@ -34,3 +34,6 @@
 <a href="https://scikit-learn.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyrobin&show_icons=true&locale=en&layout=compact" alt="heyrobin" /></p>

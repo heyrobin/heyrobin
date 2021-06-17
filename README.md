@@ -1,7 +1,7 @@
 ### Hi there, I'm Robin [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://heyrobin.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/heyrobined/)
+[![Website](https://img.shields.io/website?label=heyrobin.github.io&style=for-the-badge&url=https%3A%2F%2Fheyrobin.github.io)](https://heyrobin.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/heyrobined?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/heyrobined/)
 
 ## I'm a Analyst!!
 

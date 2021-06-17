@@ -35,4 +35,25 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyrobin&show_icons=true&locale=en&layout=compact" alt="heyrobin" /></p>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyrobin&show_icons=true&locale=en&layout=compact" alt="heyrobin" />
+
+</details>
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="heyrobin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=heyrobin&theme=radical&show_icons=true" />
+
+</details>
+
+
+
+[website]: https://holistic-developer.com/
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[instagram]: https://www.instagram.com/holistic_developer/
+[linkedin]: https://linkedin.com/in/annaarsentieva
+[portfolio]: https://arsentieva.github.io/profile/

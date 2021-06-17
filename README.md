@@ -1,4 +1,4 @@
-### Hi there, I'm Robin [website] 👋
+### Hi there, I'm Robin 👋
 
 [![Website](https://img.shields.io/website?label=heyrobin.github.io&style=for-the-badge&url=https%3A%2F%2Fheyrobin.github.io)](https://heyrobin.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/heyrobined?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/heyrobined/)

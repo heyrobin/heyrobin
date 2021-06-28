@@ -1,9 +1,24 @@
-### Hi there <a href="https://www.heyrobin.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align="center">Hi <a href="https://heyrobin.github.io/"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" /></a>, I'm Robin</h1>
 
-[![Website](https://img.shields.io/website?label=heyrobin.github.io&style=for-the-badge&url=https%3A%2F%2Fheyrobin.github.io)](https://heyrobin.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/heyrobined?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/heyrobined/)
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/heyrobin"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;2%2B+years+of+experience;Trying+new+things&center=true&width=380&height=45"></a>
+</p>
 
-## I'm a Analyst!!
+<p align="center">
+        
+<a href="https://github.com/heyrobin">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/heyrobin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+        
+<a href="https://heyrobin.github.io/">
+<img alt="followers" title="Website" src="https://img.shields.io/website?label=heyrobin.github.io&style=for-the-badge&url=https%3A%2F%2Fheyrobin.github.io"/></a>
+        
+<a href="https://linkedin.com/in/heyrobin/">
+<img alt="Linkedin" title="Follow me on linkedin" href="https://linkedin.com/in/heyrobin/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+             
+</p>
+
+## I'm an Data Analyst!!
 
 - 🌱 I’m currently learning Data Analysis
 - 🥅 2021 Goals: Create something unique
@@ -12,7 +27,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="heyrobin Spotify Playing" width="350" />](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq)
 
 ### Connect with me:
 

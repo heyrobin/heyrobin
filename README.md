@@ -25,9 +25,11 @@
 - ⚡ Fun fact: I am Guitarist,Singer,Gamer,Designer,Editor,etc
 - 📫 Reach me via e-mail **heyrobinsingh@gmail.com**
 
-### Spotify Playing 🎧
+### Kaggle 📓
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="heyrobin Spotify Playing" width="350" />](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/notebook)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/dataset)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/discussion)
 
 ### Connect with me:
 

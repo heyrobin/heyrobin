@@ -1,3 +1,4 @@
+<!-- Header -->
 <h1 align="center">Hi <a href="https://heyrobin.github.io/"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" /></a>, I'm Robin</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -5,31 +6,69 @@
   <a href="https://github.com/heyrobin"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;2%2B+years+of+experience;Trying+new+things&center=true&width=380&height=45"></a>
 </p>
 
-<p align="center">
+<!--socials-->
+<p align="center">        
+
         
-<a href="https://github.com/heyrobin">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/heyrobin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+
         
-<a href="https://heyrobin.github.io/">
-<img alt="followers" title="Website" src="https://img.shields.io/website?label=heyrobin.github.io&style=for-the-badge&url=https%3A%2F%2Fheyrobin.github.io"/></a>
-        
-<a href="https://linkedin.com/in/heyrobin/">
-<img alt="Linkedin" title="Follow me on linkedin" href="https://linkedin.com/in/heyrobin/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-             
+            
 </p>
 
-## I'm an Data Analyst!!
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/heyrobin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario">
+  </a>
+  <a href="https://www.kaggle.com/heyrobin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/caesarmario">
+  </a>
+  <a href="https://public.tableau.com/app/profile/heyrobin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/caesarmario">
+  </a>
+  <a href="https://heyrobin.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://caesarmario.medium.com/">
+  </a>
+  <a href="mailto:heyrobinsingh@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:heyrobinsingh@gmail.com">
+  </a>
+  <a href="https://linktr.ee/heyrobin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/caesarmario_">
+  </a>
 
+
+<p align="center">
+    <a href="https://github.com/heyrobin">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/heyrobin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://heyrobin.github.io/">
+<img alt="followers" title="Website" src="https://img.shields.io/website?label=heyrobin.github.io&style=for-the-badge&url=https%3A%2F%2Fheyrobin.github.io"/></a>
+</p>
+
+
+<!--aboutme-->
+## `About Me`
 - 🌱 I’m currently aspiring Data Analyst and Data Scientist
 - 🥅 2022 Goals: More Realworld Project Opportunities
 - ⚡ Fun fact: I am Guitarist,Singer,Gamer,Designer,Editor,etc
 - 📫 Reach me via e-mail **heyrobinsingh@gmail.com**
 
-### Kaggle 📓
+<!-- Stats -->
+## 💹 Stats
+#### ▶ Kaggle
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/dataset/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/notebook/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/discussion/"/>
+</p>
 
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/notebook)
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/dataset)
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/discussion)
+#### ▶ GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyrobin&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="heyrobin GitHub Streak"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=heyrobin&show_icons=true&theme=github_dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true" alt="heyrobin's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrobin&langs_count=5&theme=github_dark&title_color=00dbde&text_color=f2f2f2&hide_border=true" alt="heyrobin's GitHub Top Langs">
+  <img src="https://activity-graph.herokuapp.com/graph?username=heyrobin&theme=react-dark&color=00dbde&line=00dbde&point=f2f2f2&area=true&hide_border=true&custom_title=Activity%20Graph" alt="heyrobin's Activity Graph">
+</p>
+
 
 ### Connect with me:
 

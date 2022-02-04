@@ -20,8 +20,8 @@
 
 ## I'm an Data Analyst!!
 
-- 🌱 I’m currently learning Data Analysis
-- 🥅 2021 Goals: Create something unique
+- 🌱 I’m currently aspiring Data Analyst and Data Scientist
+- 🥅 2022 Goals: More Realworld Project Opportunities
 - ⚡ Fun fact: I am Guitarist,Singer,Gamer,Designer,Editor,etc
 - 📫 Reach me via e-mail **heyrobinsingh@gmail.com**
 

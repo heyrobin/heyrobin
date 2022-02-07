@@ -6,15 +6,6 @@
   <a href="https://github.com/heyrobin"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;2%2B+years+of+experience;Trying+new+things&center=true&width=380&height=45"></a>
 </p>
 
-<!--socials-->
-<p align="center">        
-
-        
-
-        
-            
-</p>
-
 <!-- Socials -->
 <p align="center">
   <a href="https://www.linkedin.com/in/heyrobin" target="_blank" rel="noopener noreferrer">
@@ -52,6 +43,13 @@
 - ⚡ Fun fact: I am Guitarist,Singer,Gamer,Designer,Editor,etc
 - 📫 Reach me via e-mail **heyrobinsingh@gmail.com**
 
+<!-- Posts -->
+## 📰 Latest Posts
+### 👨‍💻 Kaggle
+#### ▶ Mini Projects
+- [Clinical Patient Notes - EDA](https://www.kaggle.com/heyrobin/clinical-patient-notes-baseline-eda)
+- [Song Poplularity Prediction](https://www.kaggle.com/heyrobin/song-popularity-prediction-eda)
+ 
 <!-- Stats -->
 ## 💹 Stats
 #### ▶ Kaggle

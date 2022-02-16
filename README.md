@@ -47,8 +47,10 @@
 ## 📰 Latest Posts
 ### 👨‍💻 Kaggle
 #### ▶ Mini Projects
+- [Credit Card Fraud Detection](https://www.kaggle.com/heyrobin/credit-card-fraud-analysis-eda)
 - [Clinical Patient Notes - EDA](https://www.kaggle.com/heyrobin/clinical-patient-notes-baseline-eda)
 - [Song Poplularity Prediction](https://www.kaggle.com/heyrobin/song-popularity-prediction-eda)
+
  
 <!-- Stats -->
 ## 💹 Stats

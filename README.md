@@ -61,14 +61,6 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/heyrobin/discussion/"/>
 </p>
 
-#### ▶ GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyrobin&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="heyrobin GitHub Streak"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=heyrobin&show_icons=true&theme=github_dark&title_color=00dbde&text_color=f2f2f2&icon_color=00dbde&hide_border=true" alt="heyrobin's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyrobin&langs_count=5&theme=github_dark&title_color=00dbde&text_color=f2f2f2&hide_border=true" alt="heyrobin's GitHub Top Langs">
-  <img src="https://activity-graph.herokuapp.com/graph?username=heyrobin&theme=react-dark&color=00dbde&line=00dbde&point=f2f2f2&area=true&hide_border=true&custom_title=Activity%20Graph" alt="heyrobin's Activity Graph">
-</p>
-
 
 ### Connect with me:
 

@@ -62,19 +62,7 @@
 </p>
 
 
-### Connect with me:
 
-<p align="left"> 
-<a href="https://www.heyrobin.github.io/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" width="40px" height="40px"/> </a>
-<a href="https://www.twitter.com/heyrobined/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="40px" height="40px"/> </a>
-<a href="https://www.linkedin.com/in/heyrobin" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" width="40px" height="40px"/> </a>
-<a href="https://instagram.com/heyrobined" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="40px" height="40px"/> </a>
-<a href="youtube.com/channel/UCPgwCtDFhjA87WzWZX3Qtjg" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Youtube" width="40px" height="40px"/> </a>
         
         
 

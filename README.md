@@ -24,25 +24,21 @@
   
 </p>
 
+<!-- Posts -->
+## ▶ Projects
+- [Pandas-PowerBI][Amazon E-commerce Data Analysis](https://heyrobin.github.io/portfolio/amazon/)
+- [SQL][Zomato Sales Data Analysis](https://www.kaggle.com/heyrobin/clinical-patient-notes-baseline-eda)
 
 <!--aboutme-->
 ## `About Me`
 - 📊 Data Analyst @ It Convergence
-- 🤖 Exploring Machine Learning & AI
-- 🎸 Guitarist | 🎤 Singer | 🎮 Gamer | ✏️ Designer | 📸 Editor, etc.
+- 🎸 Guitarist | 🎤 Singer | ✏️ Designer
 - ✉️ E-mail: heyrobinsingh@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/heyrobin/
 - 🌐 Website: https://heyrobin.github.io
 
-<!-- Posts -->
-## 📰 Latest Posts
-### 👨‍💻 Kaggle
-#### ▶ Mini Projects
-- [Credit Card Fraud Detection](https://www.kaggle.com/heyrobin/credit-card-fraud-analysis-eda)
-- [Clinical Patient Notes - EDA](https://www.kaggle.com/heyrobin/clinical-patient-notes-baseline-eda)
-- [Song Poplularity Prediction](https://www.kaggle.com/heyrobin/song-popularity-prediction-eda)
 
-Keep Learning and Keep growing ❤
+
 
 
 

@@ -27,7 +27,7 @@
 <!-- Posts -->
 ## ▶ Projects
 - [Pandas-PowerBI][Amazon E-commerce Data Analysis](https://heyrobin.github.io/portfolio/amazon/)
-- [SQL][Zomato Sales Data Analysis](https://www.kaggle.com/heyrobin/clinical-patient-notes-baseline-eda)
+- [SQL][Zomato Sales Data Analysis](https://github.com/heyrobin/zomato-data-analysis-sql)
 
 <!--aboutme-->
 ## `About Me`

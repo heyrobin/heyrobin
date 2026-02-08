@@ -1,10 +1,13 @@
 <!-- Header -->
-<h1 align="center">Hi <a href="https://heyrobin.github.io/"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" /></a>, I'm Robin</h1>
+<h1 align="left">Hi <a href="https://heyrobin.github.io/"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" /></a>, I'm Robin</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  Interest in Analysis, Dashboarding, Coding, Development, Problem Solving ,and eager to Learn new Technologies.
-</p>
+## 💼 Professional Summary
+- 🏗️ Designed and maintained **scalable ETL/ELT pipelines** for high-volume data
+- ⚡ Strong experience with **SQL, Python, and distributed data processing**
+- 📊 Enabled **business intelligence & analytics** through clean, trusted data models
+- ☁️ Worked with **cloud-based data platforms** and modern data stacks
+- 🔍 Passionate about **performance optimization, data quality, and automation**
 
 <!-- Socials -->
 <p align="center">
@@ -30,12 +33,10 @@
 - [SQL][Zomato Sales Data Analysis](https://github.com/heyrobin/zomato-data-analysis-sql)
 
 <!--aboutme-->
-## `About Me`
-- 📊 Data Analyst @ It Convergence
-- 🎸 Guitarist | 🎤 Singer | ✏️ Designer
-- ✉️ E-mail: heyrobinsingh@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/heyrobin/
-- 🌐 Website: https://heyrobin.github.io
+## 📫 Let's Connect
+- 📧 Email: heyrobinsingh@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/heyrobin/  
+- 🌐 Portfolio: https://heyrobin.github.io  
 
 
 

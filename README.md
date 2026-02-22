@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<h1 align="left">Hi, <a href="https://heyrobin.github.io/"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" /></a> I'm Robin Singh (@heyrobin)</h1>
+<h1 align="left">Hi, <a href="https://heyrobin.github.io/"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="35px" /></a> I'm Robin Singh (@heyrobin)</h1>
 
 ## 🚀 About Me
 Data Engineer | AI & Big Data 

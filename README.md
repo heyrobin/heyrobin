@@ -1,5 +1,16 @@
 <!-- Header -->
-<h1 align="left">Hi <a href="https://heyrobin.github.io/"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" /></a>, I'm Robin</h1>
+
+<h1 align="left">Hi, <a href="https://heyrobin.github.io/"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" /></a> I'm Robin Singh (@heyrobin)</h1>
+
+## 🚀 About Me
+Data Engineer | AI & Big Data 
+
+I build AI-powered, production-grade data systems and architect big data solutions for the future:
+- 🤖 AI & Machine Learning (MLOps, LLMs, Generative AI, Vector Databases)
+- 🔧 Big Data Engineering (Spark, Kafka, Airflow, Flink, dbt)
+- ☁️ Cloud & Distributed Systems
+- 📊 Real-time Streaming & Intelligent Analytics
+- 🧠 AI-Native Data Platforms & Data Mesh
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 ## 💼 Professional Summary

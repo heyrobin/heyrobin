@@ -29,8 +29,7 @@
 
 <!-- Posts -->
 ## ▶ Projects
-- [Pandas-PowerBI][Amazon E-commerce Data Analysis](https://heyrobin.github.io/portfolio/amazon/)
-- [SQL][Zomato Sales Data Analysis](https://github.com/heyrobin/zomato-data-analysis-sql)
+- [Microsoft Fabric - the new way to provide data](https://github.com/heyrobin/Microsoft-Fabric)
 
 <!--aboutme-->
 ## 📫 Let's Connect
